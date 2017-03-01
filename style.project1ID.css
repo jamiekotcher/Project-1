@@ -1,6 +1,10 @@
 body {
 /*  padding: 0px;
   margin: 0px;*/
+<<<<<<< HEAD
+=======
+  width: 80%;
+>>>>>>> 9c9e0f19bd0d4a920ad8ffa4d16c0a6c4319ecb4
   height: 100%;
   margin: auto;
   font-family: 'Helvetica', sans-serif;
@@ -20,6 +24,7 @@ body {
 	margin-top: 2;
 }
 
+<<<<<<< HEAD
 col-sm-6 {
 	margin: 2em;
 	padding-top: 6em;
@@ -38,16 +43,30 @@ col-sm-6 {
 	/*
 	border-style: solid;
 border-width: 0.5px; */
+=======
+.col-sm-6 {
+	margin-bottom: -99999px;
+    padding-bottom: 99999px;
+    padding-top: 4em;
+}
+
+.row {
+	overflow: hidden;
+>>>>>>> 9c9e0f19bd0d4a920ad8ffa4d16c0a6c4319ecb4
 }
 
 img {
 	padding: 0.4em;
 }
 
+<<<<<<< HEAD
 hr {
 	width: 80%;
 /*	margin-bottom: 5em;
 */}
+=======
+
+>>>>>>> 9c9e0f19bd0d4a920ad8ffa4d16c0a6c4319ecb4
 
 .border-right {
 	border-right: solid 10px black;
@@ -58,7 +77,10 @@ hr {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+<<<<<<< HEAD
 /*	margin-top: 2em;*/
+=======
+>>>>>>> 9c9e0f19bd0d4a920ad8ffa4d16c0a6c4319ecb4
 }
 
 h1 {
@@ -68,9 +90,14 @@ h1 {
 }
 
 h2{
+<<<<<<< HEAD
 	font-family: 'Amatic SC', cursive;
 	font-weight: bold;
 	font-size: 5em;
+=======
+	font-weight: bold;
+	font-size: 2.5em;
+>>>>>>> 9c9e0f19bd0d4a920ad8ffa4d16c0a6c4319ecb4
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
@@ -86,6 +113,7 @@ h3 {
 
 h6{
 	font-size: 20em;
+<<<<<<< HEAD
 }
 
 .img-rounded {
@@ -105,4 +133,6 @@ h6{
 		margin-bottom: 0em;
 		padding: 0em;
 	}
+=======
+>>>>>>> 9c9e0f19bd0d4a920ad8ffa4d16c0a6c4319ecb4
 }
